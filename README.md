@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Education
-- Carleton College; Political Science/International Relations and Computer Science (Expected June 2025)
+- Carleton College | Political Science/International Relations and Computer Science (Expected June 2025)
 - Millennium Brooklyn High School (2021)
 
 ## Work Experience
