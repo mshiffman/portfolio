@@ -1,8 +1,8 @@
 # Portfolio
 
 ## Education
-- Carleton College; Political Science/International Relations and Computer Science (September 2021 - June 2025)
-- Millennium Brooklyn High School (September 2017 - June 2021)
+- Carleton College; Political Science/International Relations and Computer Science (Expected June 2025)
+- Millennium Brooklyn High School (2021)
 
 ## Work Experience
 **Political Consulting Strategy Intern @ Nordeast Digital (June 2023 - August 2023)**
